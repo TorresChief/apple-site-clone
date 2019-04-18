@@ -10,4 +10,4 @@ This is the fourth project of the Main HTML/CSS curriculum at [Microverse](https
 
 #### Author
 
-* [@TorresChief](https://github.com/TorresChief)
+* [@Torres-ssf](https://github.com/Torres-ssf)
