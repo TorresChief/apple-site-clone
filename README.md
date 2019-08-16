@@ -5,7 +5,7 @@ This is the fourth project of the Main HTML/CSS curriculum at [Microverse](https
 
 #### [Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients)
 
-#### [View in broswer](https://torreschief.github.io/apple-site-clone/)
+#### [View in broswer](https://torres-ssf.github.io/apple-site-clone/)
 
 #### Author
 
